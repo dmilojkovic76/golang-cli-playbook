@@ -1,5 +1,5 @@
 package module6 // import "."
 
 func FunctionForModule6GoDoc()
-    Some function that needs documenting
+    Some function that needs documenting Whatever needs to be documented
 
